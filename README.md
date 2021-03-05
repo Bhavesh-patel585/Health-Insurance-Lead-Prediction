@@ -1,4 +1,3 @@
-https://datahack.analyticsvidhya.com/contest/job-a-thon/ - automatic!
 [**AnalyticsVidya JOB-A-THON**](https://datahack.analyticsvidhya.com/contest/job-a-thon/)
 **Health Insurance Lead Prediction**
 
