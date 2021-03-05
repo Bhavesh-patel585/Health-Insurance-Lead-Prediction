@@ -13,3 +13,9 @@ Now the company needs your help in building a model to predict whether the perso
 * Information regarding holding policies of the customer
 
 * Recommended Policy Information
+
+
+
+**Evaluation Metric**
+
+Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target
